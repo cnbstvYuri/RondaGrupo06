@@ -1,0 +1,11 @@
+body {
+padding: 5px;
+}
+
+
+button {
+    background: rgb(128, 255, 255) !important;
+}
+.sm-blue a:hover, .sm-blue a:focus, .sm-blue a:active, .sm-blue a.highlighted {
+    background: rgb(128, 64, 0) !important;
+}
